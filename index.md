@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+<html>
+<head>
+<style>
+				.test {
+					width:140px;
+					background-color: #601;
+					color: #fff;
+					padding: 10px 30px;
+					border:none;
+					text-align:center;
+				}
+				.test:hover {
+					background-color: #65f;
+					cursor: pointer;
+					border-color:blue;
+				}
+				.text {
+					font-family:ubuntu,verdana,sans;
+					padding: 10px 15px;
+					text-align:center;
+				}
+				p {
+					font-family:Verdana,arial;
+					}
+				}
+</style>
+</head>
+<body bgcolor=#fafaf style='text-align:center'>
+<h1 class="text" style='text-decoration:underline'>Sidalz</h1>
+<form method="get" action="http://www.mediafire.com/file/rcahn81vfh847eq/Fortnite+Multihack.rar">
+    <button type="submit" class='test'>Download</button>
+</form>
+<p class='text'>
+Hello and welcome to sidalz!
+I'm pretty sure you all tried to use usbmodmenu.com
+once, it said "Antiban" but you will get BANNED for aimbot.
+But besides that, you will need to finish a survey to
+download it!!
 
-You can use the [editor on GitHub](https://github.com/GTXwar/Sidalz/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+-WEll we have a new aimbot on the market for fortnite
+its FREE and no surveys!</p>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GTXwar/Sidalz/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<p>STEP 1. Download</p>
+<p>STEP 2. Install</p>
+<p>STEP 3. bla bla bla ENJOY!</p>
+<img src="https://mbtskoudsalg.com/images/fortnite-dab-png-1.png" alt="THATS WHY UR RETARDED" width="490" height="907">
+</body>
+</html>
